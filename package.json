@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Nombre Actualizado",
+  "author": "Nuevo Nombre",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.0.0"
